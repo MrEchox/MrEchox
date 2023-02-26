@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @MrEchox, a.k.a Alan. I'm a university student learning programming.
-- 👀 I’m interested in software developmet, game design and databases.
-- 🌱 I’m currently learning object-oriented C#.
+- 👋 Hi, I’m @MrEchox, a.k.a Alan. I'm a computer science sophomore.
+- 👀 I’m interested in software developmet and databases.
 - 📫 How to reach me: e-mail me at 'asalanys@gmail.com'.
 - 🏆 Personal projects: N/A
