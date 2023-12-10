@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrEchox, a.k.a Alan. I'm a computer science sophomore.
+- 👋 Hi, I’m @MrEchox, a.k.a Alan. I'm a computer science student.
 - 👀 I’m interested in software developmet and databases.
-- 📫 How to reach me: e-mail me at 'asalanys@gmail.com'.
+- 📫 How to reach me: Contact me here.
 - 🏆 Personal projects: N/A
